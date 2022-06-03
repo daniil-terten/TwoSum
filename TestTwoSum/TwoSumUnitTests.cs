@@ -5,12 +5,12 @@ namespace TestTwoSum
 {
     public class TwoSumUnitTests
     {
-        TwoSumClass _twoSum;  
+        TwoSumApp _twoSum;  
 
         [SetUp]
         public void Setup()
         {
-            _twoSum = new TwoSumClass();
+            _twoSum = new TwoSumApp();
         }
 
         [Test]

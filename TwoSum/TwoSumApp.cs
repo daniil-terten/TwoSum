@@ -2,7 +2,7 @@
 
 namespace TwoSum
 {
-    public class TwoSumClass
+    public class TwoSumApp
     {
         public static void Main()
         {
